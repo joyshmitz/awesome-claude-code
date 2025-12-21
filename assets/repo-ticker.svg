@@ -103,67 +103,67 @@
         dur="50s"
         repeatCount="indefinite"/>
 
-      <!-- Repo: EnzeD/vibe-coding -->
+      <!-- Repo: omnara-ai/omnara -->
       <g transform="translate(0, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">EnzeD</text>
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">omnara-ai</text>
         <!-- Repo name -->
         <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">vibe-coding</text>
+              fill="#ffffff" filter="url(#textGlow)">omnara</text>
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 3.0K
+          ⭐ 2.6K
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +63
+          +1
         </text>
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 3.0K
+          👁 2.6K
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +63
+          +1
         </text>
 
         <!-- Forks -->
         <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 672
+          🔱 184
         </text>
-        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +57
+        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
+          0
         </text>
       </g>
-      <!-- Repo: siteboon/claudecodeui -->
+      <!-- Repo: OneRedOak/claude-code-workflows -->
       <g transform="translate(300, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">siteboon</text>
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">OneRedOak</text>
         <!-- Repo name -->
         <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claudecodeui</text>
+              fill="#ffffff" filter="url(#textGlow)">claude-code-workflow...</text>
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 5.1K
+          ⭐ 3.3K
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +8
+          +5
         </text>
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 5.1K
+          👁 3.3K
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +8
+          +5
         </text>
 
         <!-- Forks -->
         <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 647
+          🔱 494
         </text>
         <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
           +1
@@ -180,18 +180,18 @@
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 47.1K
+          ⭐ 47.4K
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +455
+          +286
         </text>
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 47.1K
+          👁 47.4K
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +455
+          +286
         </text>
 
         <!-- Forks -->
@@ -199,54 +199,54 @@
           🔱 3.3K
         </text>
         <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +37
+          +17
         </text>
       </g>
-      <!-- Repo: ananddtyagi/claude-code-marketplace -->
+      <!-- Repo: Yuyz0112/claude-code-reverse -->
       <g transform="translate(900, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">ananddtyagi</text>
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">Yuyz0112</text>
         <!-- Repo name -->
         <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claude-code-marketpl...</text>
+              fill="#ffffff" filter="url(#textGlow)">claude-code-reverse</text>
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 543
+          ⭐ 1.8K
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +4
+          +3
         </text>
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 543
+          👁 1.8K
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +4
+          +3
         </text>
 
         <!-- Forks -->
         <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 44
+          🔱 327
         </text>
-        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +1
+        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
+          0
         </text>
       </g>
-      <!-- Repo: 9j/claude-code-mux -->
+      <!-- Repo: Dicklesworthstone/claude_code_agent_farm -->
       <g transform="translate(1200, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">9j</text>
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">Dicklesworthstone</text>
         <!-- Repo name -->
         <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claude-code-mux</text>
+              fill="#ffffff" filter="url(#textGlow)">claude_code_agent_fa...</text>
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 415
+          ⭐ 601
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
           0
@@ -254,7 +254,7 @@
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 415
+          👁 601
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
           0
@@ -262,24 +262,57 @@
 
         <!-- Forks -->
         <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 41
+          🔱 71
         </text>
-        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
-          0
+        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +1
         </text>
       </g>
-      <!-- Repo: Cranot/claude-code-guide -->
+      <!-- Repo: eyaltoledano/claude-task-master -->
       <g transform="translate(1500, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">Cranot</text>
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">eyaltoledano</text>
         <!-- Repo name -->
         <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claude-code-guide</text>
+              fill="#ffffff" filter="url(#textGlow)">claude-task-master</text>
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 2.2K
+          ⭐ 24.4K
+        </text>
+        <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +15
+        </text>
+
+        <!-- Watchers -->
+        <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
+          👁 24.4K
+        </text>
+        <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +15
+        </text>
+
+        <!-- Forks -->
+        <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
+          🔱 2.4K
+        </text>
+        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +2
+        </text>
+      </g>
+      <!-- Repo: stevemolitor/claude-code.el -->
+      <g transform="translate(1800, 0)">
+        <!-- Owner name -->
+        <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">stevemolitor</text>
+        <!-- Repo name -->
+        <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#ffffff" filter="url(#textGlow)">claude-code.el</text>
+
+        <!-- Stars -->
+        <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
+          ⭐ 551
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
           +1
@@ -287,43 +320,10 @@
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 2.2K
+          👁 551
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
           +1
-        </text>
-
-        <!-- Forks -->
-        <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 244
-        </text>
-        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
-          0
-        </text>
-      </g>
-      <!-- Repo: kxn/claude-code-companion -->
-      <g transform="translate(1800, 0)">
-        <!-- Owner name -->
-        <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">kxn</text>
-        <!-- Repo name -->
-        <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claude-code-companio...</text>
-
-        <!-- Stars -->
-        <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 298
-        </text>
-        <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#ff3333">
-          -1
-        </text>
-
-        <!-- Watchers -->
-        <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 298
-        </text>
-        <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#ff3333">
-          -1
         </text>
 
         <!-- Forks -->
@@ -334,41 +334,8 @@
           0
         </text>
       </g>
-      <!-- Repo: jeremylongshore/claude-code-plugins-plus -->
-      <g transform="translate(2100, 0)">
-        <!-- Owner name -->
-        <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">jeremylongshore</text>
-        <!-- Repo name -->
-        <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claude-code-plugins-...</text>
-
-        <!-- Stars -->
-        <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 702
-        </text>
-        <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +11
-        </text>
-
-        <!-- Watchers -->
-        <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 702
-        </text>
-        <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +11
-        </text>
-
-        <!-- Forks -->
-        <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 72
-        </text>
-        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +2
-        </text>
-      </g>
       <!-- Repo: gurusup/claude-code-demo -->
-      <g transform="translate(2400, 0)">
+      <g transform="translate(2100, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
               fill="#ffffff" opacity="0.7" filter="url(#textGlow)">gurusup</text>
@@ -400,37 +367,70 @@
           0
         </text>
       </g>
-      <!-- Repo: Dicklesworthstone/claude_code_agent_farm -->
-      <g transform="translate(2700, 0)">
+      <!-- Repo: winfunc/opcode -->
+      <g transform="translate(2400, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">Dicklesworthstone</text>
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">winfunc</text>
         <!-- Repo name -->
         <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claude_code_agent_fa...</text>
+              fill="#ffffff" filter="url(#textGlow)">opcode</text>
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 601
+          ⭐ 19.3K
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +2
+          +10
         </text>
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 601
+          👁 19.3K
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +2
+          +10
         </text>
 
         <!-- Forks -->
         <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 70
+          🔱 1.5K
         </text>
         <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
           0
+        </text>
+      </g>
+      <!-- Repo: VoltAgent/awesome-claude-code-subagents -->
+      <g transform="translate(2700, 0)">
+        <!-- Owner name -->
+        <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">VoltAgent</text>
+        <!-- Repo name -->
+        <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#ffffff" filter="url(#textGlow)">awesome-claude-code-...</text>
+
+        <!-- Stars -->
+        <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
+          ⭐ 6.1K
+        </text>
+        <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +31
+        </text>
+
+        <!-- Watchers -->
+        <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
+          👁 6.1K
+        </text>
+        <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +31
+        </text>
+
+        <!-- Forks -->
+        <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
+          🔱 650
+        </text>
+        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +5
         </text>
       </g>
     </g>
@@ -446,67 +446,67 @@
         dur="50s"
         repeatCount="indefinite"/>
 
-      <!-- Repo: EnzeD/vibe-coding -->
+      <!-- Repo: omnara-ai/omnara -->
       <g transform="translate(0, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">EnzeD</text>
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">omnara-ai</text>
         <!-- Repo name -->
         <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">vibe-coding</text>
+              fill="#ffffff" filter="url(#textGlow)">omnara</text>
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 3.0K
+          ⭐ 2.6K
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +63
+          +1
         </text>
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 3.0K
+          👁 2.6K
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +63
+          +1
         </text>
 
         <!-- Forks -->
         <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 672
+          🔱 184
         </text>
-        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +57
+        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
+          0
         </text>
       </g>
-      <!-- Repo: siteboon/claudecodeui -->
+      <!-- Repo: OneRedOak/claude-code-workflows -->
       <g transform="translate(300, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">siteboon</text>
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">OneRedOak</text>
         <!-- Repo name -->
         <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claudecodeui</text>
+              fill="#ffffff" filter="url(#textGlow)">claude-code-workflow...</text>
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 5.1K
+          ⭐ 3.3K
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +8
+          +5
         </text>
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 5.1K
+          👁 3.3K
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +8
+          +5
         </text>
 
         <!-- Forks -->
         <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 647
+          🔱 494
         </text>
         <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
           +1
@@ -523,18 +523,18 @@
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 47.1K
+          ⭐ 47.4K
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +455
+          +286
         </text>
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 47.1K
+          👁 47.4K
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +455
+          +286
         </text>
 
         <!-- Forks -->
@@ -542,54 +542,54 @@
           🔱 3.3K
         </text>
         <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +37
+          +17
         </text>
       </g>
-      <!-- Repo: ananddtyagi/claude-code-marketplace -->
+      <!-- Repo: Yuyz0112/claude-code-reverse -->
       <g transform="translate(900, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">ananddtyagi</text>
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">Yuyz0112</text>
         <!-- Repo name -->
         <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claude-code-marketpl...</text>
+              fill="#ffffff" filter="url(#textGlow)">claude-code-reverse</text>
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 543
+          ⭐ 1.8K
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +4
+          +3
         </text>
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 543
+          👁 1.8K
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +4
+          +3
         </text>
 
         <!-- Forks -->
         <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 44
+          🔱 327
         </text>
-        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +1
+        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
+          0
         </text>
       </g>
-      <!-- Repo: 9j/claude-code-mux -->
+      <!-- Repo: Dicklesworthstone/claude_code_agent_farm -->
       <g transform="translate(1200, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">9j</text>
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">Dicklesworthstone</text>
         <!-- Repo name -->
         <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claude-code-mux</text>
+              fill="#ffffff" filter="url(#textGlow)">claude_code_agent_fa...</text>
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 415
+          ⭐ 601
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
           0
@@ -597,7 +597,7 @@
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 415
+          👁 601
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
           0
@@ -605,24 +605,57 @@
 
         <!-- Forks -->
         <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 41
+          🔱 71
         </text>
-        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
-          0
+        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +1
         </text>
       </g>
-      <!-- Repo: Cranot/claude-code-guide -->
+      <!-- Repo: eyaltoledano/claude-task-master -->
       <g transform="translate(1500, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">Cranot</text>
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">eyaltoledano</text>
         <!-- Repo name -->
         <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claude-code-guide</text>
+              fill="#ffffff" filter="url(#textGlow)">claude-task-master</text>
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 2.2K
+          ⭐ 24.4K
+        </text>
+        <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +15
+        </text>
+
+        <!-- Watchers -->
+        <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
+          👁 24.4K
+        </text>
+        <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +15
+        </text>
+
+        <!-- Forks -->
+        <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
+          🔱 2.4K
+        </text>
+        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +2
+        </text>
+      </g>
+      <!-- Repo: stevemolitor/claude-code.el -->
+      <g transform="translate(1800, 0)">
+        <!-- Owner name -->
+        <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">stevemolitor</text>
+        <!-- Repo name -->
+        <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#ffffff" filter="url(#textGlow)">claude-code.el</text>
+
+        <!-- Stars -->
+        <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
+          ⭐ 551
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
           +1
@@ -630,43 +663,10 @@
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 2.2K
+          👁 551
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
           +1
-        </text>
-
-        <!-- Forks -->
-        <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 244
-        </text>
-        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
-          0
-        </text>
-      </g>
-      <!-- Repo: kxn/claude-code-companion -->
-      <g transform="translate(1800, 0)">
-        <!-- Owner name -->
-        <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">kxn</text>
-        <!-- Repo name -->
-        <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claude-code-companio...</text>
-
-        <!-- Stars -->
-        <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 298
-        </text>
-        <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#ff3333">
-          -1
-        </text>
-
-        <!-- Watchers -->
-        <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 298
-        </text>
-        <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#ff3333">
-          -1
         </text>
 
         <!-- Forks -->
@@ -677,41 +677,8 @@
           0
         </text>
       </g>
-      <!-- Repo: jeremylongshore/claude-code-plugins-plus -->
-      <g transform="translate(2100, 0)">
-        <!-- Owner name -->
-        <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">jeremylongshore</text>
-        <!-- Repo name -->
-        <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claude-code-plugins-...</text>
-
-        <!-- Stars -->
-        <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 702
-        </text>
-        <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +11
-        </text>
-
-        <!-- Watchers -->
-        <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 702
-        </text>
-        <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +11
-        </text>
-
-        <!-- Forks -->
-        <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 72
-        </text>
-        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +2
-        </text>
-      </g>
       <!-- Repo: gurusup/claude-code-demo -->
-      <g transform="translate(2400, 0)">
+      <g transform="translate(2100, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
               fill="#ffffff" opacity="0.7" filter="url(#textGlow)">gurusup</text>
@@ -743,37 +710,70 @@
           0
         </text>
       </g>
-      <!-- Repo: Dicklesworthstone/claude_code_agent_farm -->
-      <g transform="translate(2700, 0)">
+      <!-- Repo: winfunc/opcode -->
+      <g transform="translate(2400, 0)">
         <!-- Owner name -->
         <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
-              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">Dicklesworthstone</text>
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">winfunc</text>
         <!-- Repo name -->
         <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
-              fill="#ffffff" filter="url(#textGlow)">claude_code_agent_fa...</text>
+              fill="#ffffff" filter="url(#textGlow)">opcode</text>
 
         <!-- Stars -->
         <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
-          ⭐ 601
+          ⭐ 19.3K
         </text>
         <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +2
+          +10
         </text>
 
         <!-- Watchers -->
         <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
-          👁 601
+          👁 19.3K
         </text>
         <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
-          +2
+          +10
         </text>
 
         <!-- Forks -->
         <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
-          🔱 70
+          🔱 1.5K
         </text>
         <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#888888">
           0
+        </text>
+      </g>
+      <!-- Repo: VoltAgent/awesome-claude-code-subagents -->
+      <g transform="translate(2700, 0)">
+        <!-- Owner name -->
+        <text x="140" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="normal"
+              fill="#ffffff" opacity="0.7" filter="url(#textGlow)">VoltAgent</text>
+        <!-- Repo name -->
+        <text x="140" y="38" font-family="'Courier New', monospace" font-size="16" font-weight="bold"
+              fill="#ffffff" filter="url(#textGlow)">awesome-claude-code-...</text>
+
+        <!-- Stars -->
+        <text x="140" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ffff">
+          ⭐ 6.1K
+        </text>
+        <text x="140" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +31
+        </text>
+
+        <!-- Watchers -->
+        <text x="220" y="60" font-family="'Courier New', monospace" font-size="11" fill="#66ff66">
+          👁 6.1K
+        </text>
+        <text x="220" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +31
+        </text>
+
+        <!-- Forks -->
+        <text x="290" y="60" font-family="'Courier New', monospace" font-size="11" fill="#00ff99">
+          🔱 650
+        </text>
+        <text x="290" y="72" font-family="'Courier New', monospace" font-size="9" fill="#33ff33">
+          +5
         </text>
       </g>
     </g>
